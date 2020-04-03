@@ -2,4 +2,9 @@
 bower_components
 node_modules
 npm-debug.log
-css
+scss
+yarn.lock
+package-lock.json
+package.json
+gulpfile.js
+
